@@ -1,4 +1,4 @@
-                                                  # Tìm hiểu về Amazon Textract và viết ứng dụng minh họa
+# Tìm hiểu về Amazon Textract và viết ứng dụng minh họa
 # Nhóm 26:                                                  
 - Nguyễn Đình Duy - 20110453;
 - Nguyễn Minh Tuấn - 20110594;
